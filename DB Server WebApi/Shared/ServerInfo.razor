@@ -1,0 +1,37 @@
+﻿@using DB_Server_WebApi.Models
+@using Toolbelt.Blazor.I18nText
+@inject ITranslator translator
+
+<div class="server-info">
+    @T?.ServerInfo_Title
+    <span>: @(IsOnline ? @T?.ServerInfo_StatusOnline : @T?.ServerInfo_StatusOffline)</span>
+</div>
+
+@code {
+    private GlobalTranslations? T;
+    private bool IsOnline = true; // Simulate server status
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender)
+        {
+            await translator.Refresh();
+            T = translator.GetText<GlobalTranslations>();
+            StateHasChanged();
+        }
+    }
+}
+
+<style>
+    .server-info {
+        height: 200px;
+        width: 100%; /*Largeur*/
+        max-width: 600px; /* Largeur maximale */
+        opacity: 0.3;
+        background-color: #f0f0f0; /* Couleur de fond pour la visibilité */
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+</style>

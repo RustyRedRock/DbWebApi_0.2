@@ -1,0 +1,35 @@
+﻿@using DB_Server_WebApi.Models
+@using Toolbelt.Blazor.I18nText
+@inject ITranslator translator
+
+<div class="legal-bar">
+    <span>@T?.LegalBar_Copyright</span>
+    <a href="/terms">@T?.LegalBar_Terms</a>
+    <a href="/privacy">@T?.LegalBar_Privacy</a>
+</div>
+
+@code {
+    private GlobalTranslations? T;
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender)
+        {
+            await translator.Refresh();
+            T = translator.GetText<GlobalTranslations>();
+            StateHasChanged();
+        }
+    }
+}
+
+<style>
+    .legal-bar {
+        height: 200px;
+        width: 100%;
+        background-color: #d0d0d0; /* Couleur de fond pour la visibilité */
+        text-align: center;
+        /* margin-top: auto;  Si le LegalBar est dans le Layout */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+</style>

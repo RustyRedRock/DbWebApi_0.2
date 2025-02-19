@@ -1,0 +1,23 @@
+﻿@using DB_Server_WebApi.Shared
+@inherits LayoutComponentBase
+
+<div class="page-container"> @* Conteneur principal avec image de fond *@
+    <div class="content-wrapper">
+        <TopBar />
+        <ServerInfo />
+        <ConnectionPanel />
+
+        @* Les 4 conteneurs vides *@
+        <div class="empty-container"></div>
+        <div class="empty-container"></div>
+        <div class="empty-container"></div>
+        <div class="empty-container"></div>
+         @Body
+
+        <LegalBar />
+    </div>
+</div>
+
+@code {
+    // Vous pourriez ajouter du code ici si nécessaire (par exemple, pour gérer des événements globaux)
+}

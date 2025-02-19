@@ -1,0 +1,38 @@
+﻿@using DB_Server_WebApi.Models
+@using Toolbelt.Blazor.I18nText
+@inject ITranslator translator
+
+<div class="connection-panel">
+    @T?.ConnectionPanel_Title
+    <input type="text" placeholder="@T?.ConnectionPanel_PlaceholderText" />
+</div>
+
+@code {
+    private GlobalTranslations? T;
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender)
+        {
+            await translator.Refresh();
+            T = translator.GetText<GlobalTranslations>();
+            StateHasChanged();
+        }
+    }
+}
+
+<style>
+    .connection-panel {
+        height: 600px;
+        width: 100%; /*Largeur*/
+        max-width: 600px; /* Largeur maximale */
+        opacity: 0.3;
+        background-color: #e0e0e0; /* Couleur de fond pour la visibilité */
+        margin: 20px 0; /* Marge en haut et en bas, centré horizontalement */
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+</style>
+

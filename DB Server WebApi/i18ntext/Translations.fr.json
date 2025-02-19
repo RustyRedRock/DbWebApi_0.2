@@ -1,0 +1,23 @@
+{
+  // TopBar
+  "TopBar_Button1": "Bouton 1",
+  "TopBar_Button2": "Bouton 2",
+  "TopBar_Button3": "Bouton 3",
+  "TopBar_Button4": "Bouton 4",
+  "TopBar_Option1": "Option 1",
+  "TopBar_Option2": "Option 2",
+  
+  // ConnectionPanel
+  "ConnectionPanel_Title": "Panneau de connexion",
+  "ConnectionPanel_PlaceholderText": "Entrez votre nom d'utilisateur...",
+  
+  // ServerInfo
+  "ServerInfo_Title": "Statut du serveur",
+  "ServerInfo_StatusOnline": "En ligne",
+  "ServerInfo_StatusOffline": "Hors ligne",
+  
+  // LegalBar
+  "LegalBar_Copyright": "© 2023 Mon Entreprise",
+  "LegalBar_Terms": "Conditions d'utilisation",
+  "LegalBar_Privacy": "Politique de confidentialité"
+}

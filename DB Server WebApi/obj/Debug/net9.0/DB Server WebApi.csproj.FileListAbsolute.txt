@@ -1,0 +1,300 @@
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\appsettings.Development.json
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\appsettings.json
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\BlazorDebugProxy\BrowserDebugHost.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\BlazorDebugProxy\BrowserDebugProxy.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\BlazorDebugProxy\Microsoft.CodeAnalysis.Scripting.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\BlazorDebugProxy\Microsoft.FileFormats.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\BlazorDebugProxy\Microsoft.NET.WebAssembly.Webcil.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\BlazorDebugProxy\Microsoft.SymbolStore.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\BlazorDebugProxy\Newtonsoft.Json.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\DB Server WebApi.staticwebassets.runtime.json
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\DB Server WebApi.staticwebassets.endpoints.json
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\DB Server WebApi.exe
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\DB Server WebApi.deps.json
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\DB Server WebApi.runtimeconfig.json
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\DB Server WebApi.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\DB Server WebApi.pdb
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\Humanizer.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\Mono.TextTemplating.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\Npgsql.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\System.CodeDom.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\System.Composition.Convention.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\System.Composition.Hosting.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\System.Composition.Runtime.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\System.Composition.TypedParts.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\Server Apps\DB Server WebApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\Server Apps\DB Server WebApi\obj\Debug\net9.0\DB Server WebApi.csproj.AssemblyReference.cache
+G:\Server Apps\DB Server WebApi\obj\Debug\net9.0\DB Server WebApi.GeneratedMSBuildEditorConfig.editorconfig
+G:\Server Apps\DB Server WebApi\obj\Debug\net9.0\DB Server WebApi.AssemblyInfoInputs.cache
+G:\Server Apps\DB Server WebApi\obj\Debug\net9.0\DB Server WebApi.AssemblyInfo.cs
+G:\Server Apps\DB Server WebApi\obj\Debug\net9.0\DB Server WebApi.csproj.CoreCompileInputs.cache
+G:\Server Apps\DB Server WebApi\obj\Debug\net9.0\DB Server WebApi.MvcApplicationPartsAssemblyInfo.cache
+G:\Server Apps\DB Server WebApi\obj\Debug\net9.0\DB Server WebApi.RazorAssemblyInfo.cache
+G:\Server Apps\DB Server WebApi\obj\Debug\net9.0\DB Server WebApi.RazorAssemblyInfo.cs
+G:\Server Apps\DB Server WebApi\obj\Debug\net9.0\scopedcss\bundle\DB Server WebApi.styles.css
+G:\Server Apps\DB Server WebApi\obj\Debug\net9.0\compressed\4fg6psblaz-38mzaxh5ig.gz
+G:\Server Apps\DB Server WebApi\obj\Debug\net9.0\compressed\iuudithkw6-3r8b2a0bt1.gz
+G:\Server Apps\DB Server WebApi\obj\Debug\net9.0\staticwebassets.build.json
+G:\Server Apps\DB Server WebApi\obj\Debug\net9.0\staticwebassets.development.json
+G:\Server Apps\DB Server WebApi\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+G:\Server Apps\DB Server WebApi\obj\Debug\net9.0\staticwebassets\msbuild.DB Server WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+G:\Server Apps\DB Server WebApi\obj\Debug\net9.0\staticwebassets\msbuild.DB Server WebApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+G:\Server Apps\DB Server WebApi\obj\Debug\net9.0\staticwebassets\msbuild.build.DB Server WebApi.props
+G:\Server Apps\DB Server WebApi\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.DB Server WebApi.props
+G:\Server Apps\DB Server WebApi\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.DB Server WebApi.props
+G:\Server Apps\DB Server WebApi\obj\Debug\net9.0\staticwebassets.pack.json
+G:\Server Apps\DB Server WebApi\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+G:\Server Apps\DB Server WebApi\obj\Debug\net9.0\DB Serve.9CC54483.Up2Date
+G:\Server Apps\DB Server WebApi\obj\Debug\net9.0\DB Server WebApi.dll
+G:\Server Apps\DB Server WebApi\obj\Debug\net9.0\refint\DB Server WebApi.dll
+G:\Server Apps\DB Server WebApi\obj\Debug\net9.0\DB Server WebApi.pdb
+G:\Server Apps\DB Server WebApi\obj\Debug\net9.0\DB Server WebApi.genruntimeconfig.cache
+G:\Server Apps\DB Server WebApi\obj\Debug\net9.0\ref\DB Server WebApi.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\appsettings.Development.json
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\appsettings.json
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\BlazorDebugProxy\BrowserDebugHost.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\BlazorDebugProxy\BrowserDebugProxy.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\BlazorDebugProxy\Microsoft.CodeAnalysis.Scripting.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\BlazorDebugProxy\Microsoft.FileFormats.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\BlazorDebugProxy\Microsoft.NET.WebAssembly.Webcil.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\BlazorDebugProxy\Microsoft.SymbolStore.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\BlazorDebugProxy\Newtonsoft.Json.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\DB Server WebApi.staticwebassets.runtime.json
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\DB Server WebApi.staticwebassets.endpoints.json
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\DB Server WebApi.exe
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\DB Server WebApi.deps.json
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\DB Server WebApi.runtimeconfig.json
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\DB Server WebApi.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\DB Server WebApi.pdb
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\Humanizer.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\Npgsql.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\System.CodeDom.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\obj\Debug\net9.0\DB Server WebApi.csproj.AssemblyReference.cache
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\obj\Debug\net9.0\DB Server WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\obj\Debug\net9.0\DB Server WebApi.AssemblyInfoInputs.cache
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\obj\Debug\net9.0\DB Server WebApi.AssemblyInfo.cs
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\obj\Debug\net9.0\DB Server WebApi.csproj.CoreCompileInputs.cache
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\obj\Debug\net9.0\DB Server WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\obj\Debug\net9.0\DB Server WebApi.RazorAssemblyInfo.cache
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\obj\Debug\net9.0\DB Server WebApi.RazorAssemblyInfo.cs
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\obj\Debug\net9.0\DB Server WebApi.sourcelink.json
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\obj\Debug\net9.0\scopedcss\bundle\DB Server WebApi.styles.css
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\obj\Debug\net9.0\compressed\4fg6psblaz-38mzaxh5ig.gz
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\obj\Debug\net9.0\compressed\2g0kx2xjyy-3r8b2a0bt1.gz
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\obj\Debug\net9.0\staticwebassets.build.json
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\obj\Debug\net9.0\staticwebassets.development.json
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\obj\Debug\net9.0\staticwebassets\msbuild.DB Server WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\obj\Debug\net9.0\staticwebassets\msbuild.DB Server WebApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\obj\Debug\net9.0\staticwebassets\msbuild.build.DB Server WebApi.props
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.DB Server WebApi.props
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.DB Server WebApi.props
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\obj\Debug\net9.0\staticwebassets.pack.json
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\obj\Debug\net9.0\DB Serve.9CC54483.Up2Date
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\obj\Debug\net9.0\DB Server WebApi.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\obj\Debug\net9.0\refint\DB Server WebApi.dll
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\obj\Debug\net9.0\DB Server WebApi.pdb
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\obj\Debug\net9.0\DB Server WebApi.genruntimeconfig.cache
+D:\KS WebApi\DbWebApi_0.1\DB Server WebApi\obj\Debug\net9.0\ref\DB Server WebApi.dll
+G:\Repositories\DbWebApi_0.1\DB Server WebApi\obj\Debug\net9.0\DB Server WebApi.csproj.AssemblyReference.cache
+G:\Repositories\DbWebApi_0.1\DB Server WebApi\obj\Debug\net9.0\DB Server WebApi.GeneratedMSBuildEditorConfig.editorconfig
+G:\Repositories\DbWebApi_0.1\DB Server WebApi\obj\Debug\net9.0\DB Server WebApi.AssemblyInfoInputs.cache
+G:\Repositories\DbWebApi_0.1\DB Server WebApi\obj\Debug\net9.0\DB Server WebApi.AssemblyInfo.cs
+G:\Repositories\DbWebApi_0.1\DB Server WebApi\obj\Debug\net9.0\DB Server WebApi.csproj.CoreCompileInputs.cache
+G:\Repositories\DbWebApi_0.1\DB Server WebApi\obj\Debug\net9.0\DB Server WebApi.MvcApplicationPartsAssemblyInfo.cache
+G:\Repositories\DbWebApi_0.1\DB Server WebApi\obj\Debug\net9.0\DB Server WebApi.RazorAssemblyInfo.cache
+G:\Repositories\DbWebApi_0.1\DB Server WebApi\obj\Debug\net9.0\DB Server WebApi.RazorAssemblyInfo.cs
+G:\Repositories\DbWebApi_0.1\DB Server WebApi\obj\Debug\net9.0\DB Server WebApi.sourcelink.json

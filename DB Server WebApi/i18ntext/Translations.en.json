@@ -1,0 +1,23 @@
+{
+  // TopBar
+  "TopBar_Button1": "Button 1",
+  "TopBar_Button2": "Button 2",
+  "TopBar_Button3": "Button 3",
+  "TopBar_Button4": "Button 4",
+  "TopBar_Option1": "Option 1",
+  "TopBar_Option2": "Option 2",
+
+  // ConnectionPanel
+  "ConnectionPanel_Title": "Connection Panel",
+  "ConnectionPanel_PlaceholderText": "Enter your username...",
+
+  // ServerInfo
+  "ServerInfo_Title": "Server Status",
+  "ServerInfo_StatusOnline": "Online",
+  "ServerInfo_StatusOffline": "Offline",
+
+  // LegalBar
+  "LegalBar_Copyright": "© 2023 My Company",
+  "LegalBar_Terms": "Terms of Service",
+  "LegalBar_Privacy": "Privacy Policy"
+}

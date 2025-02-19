@@ -1,0 +1,33 @@
+﻿/* Styles pour le conteneur principal avec image de fond */
+.page-container {
+    min-height: 100vh; /* Occupe au moins 100% de la hauteur de la fenêtre */
+    background-image: url('../images/background_2024x2024.jpg'); /* Chemin relatif vers votre image */
+    background-size: cover; /* L'image couvre tout le conteneur */
+    background-position: center; /* Centre l'image */
+    background-repeat: no-repeat; /* Empêche la répétition de l'image */
+    display: flex;
+    flex-direction: column; /* Les éléments enfants sont disposés verticalement */
+    /* padding-bottom: 200px;  Si vous mettez le LegalBar dans le Layout */
+}
+
+
+.content-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Centre les éléments horizontalement */
+    width: 100%; /* Occupe toute la largeur */
+    min-height: calc(100vh - 150px); /* Hauteur minimale : hauteur de la fenêtre moins la hauteur de MainLayout */
+    /*Pour s'assurer que le contenu pousse le LegalBar vers le bas*/
+}
+
+
+/* Styles pour les conteneurs vides (vous pouvez les personnaliser) */
+.empty-container {
+    height: 500px;
+    width: 100%; /* Ou une largeur fixe, selon vos besoins */
+    margin-bottom: 20px; /* Espacement entre les conteneurs */
+    /* Ajoutez d'autres styles ici (bordures, couleurs, etc.) */
+}
+
+/* Pour s'assurer que la TopBar reste collée en haut, pas besoin de CSS supplémentaire,
+   car elle est placée en premier dans le flex container. */

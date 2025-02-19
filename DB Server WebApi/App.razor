@@ -1,0 +1,15 @@
+﻿@using DB_Server_WebApi.Shared
+
+<CascadingAuthenticationState>
+    <Router AppAssembly="@typeof(Program).Assembly">
+        <Found Context="routeData">
+            <RouteView RouteData="@routeData" DefaultLayout="@typeof(DB_Server_WebApi.Shared.MainLayout)" />
+        </Found>
+        <NotFound>
+            <LayoutView Layout="@typeof(DB_Server_WebApi.Shared.MainLayout)">
+                <p>Sorry, there's nothing at this address.</p>
+            </LayoutView>
+        </NotFound>
+    </Router>
+</CascadingAuthenticationState>
+
